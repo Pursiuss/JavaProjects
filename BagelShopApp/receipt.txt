@@ -1,0 +1,10 @@
+============== SHERIDAN'S BAGEL HOUSE ==============
+Bagel: White Bagel
+Toppings: None
+Coffee: Regular Coffee
+----------------------------------------------------
+Subtotal:	$2.50
+Tax (13%):	$0.33
+Total:		$2.83
+====================================================
+
